@@ -1,5 +1,5 @@
 # Makena-Kirimi
-About me :)
+
 Hello there, 
 I am an Applied Statistics graduate who's recently seen the light and gotten serious about her career in tech. 
 My passion for Software and Data Analysis has pushed me to hone my skills in: Python, R, SQL, Excel, Power BI and Tableau.
