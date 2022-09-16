@@ -1,9 +1,12 @@
 # Makena-Kirimi
 
-Hello there, 
-I am an Applied Statistics graduate who's recently seen the light and gotten serious about her career in tech. 
-My passion for Software and Data Analysis has pushed me to hone my skills in: Python, R, SQL, Excel, Power BI and Tableau.
-I am looking to collaborate on all Data Science projects you might think of such as: building data pipelones, data cleaning/mining/analysis/visualization, SQL querying/building databases and report writing.
+🏫 I am an Applied Statistics graduate.
+❗ I write code.
+😃 Interested in Data Science, Software Engineering and Business Intelligence
+👍 Looking to collaborate on any project ideas you might have
+🍵 Coffee Addict
+I am currently learning Software Engineering at Alx Africa. January 2022 - January 2023. You can check em out anywhere on the internet. IT'S FREE 🥳🥳
+
 How to reach me:
 LinkedIn - https://www.linkedin.com/in/kirimi-makena-456a07180/
 Twitter  - https://twitter.com/MakenaKirimi6
